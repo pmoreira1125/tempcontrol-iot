@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: tempcontrol
+    env: docker
+    plan: free
+    autoDeploy: true

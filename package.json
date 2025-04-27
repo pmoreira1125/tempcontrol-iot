@@ -1,0 +1,9 @@
+{
+  "name": "tempcontrol-iot",
+  "description": "Projeto Node-RED TempControl com MQTT Broker interno e Dashboard",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-red-dashboard": "^3.5.0",
+    "node-red-contrib-mqtt-broker": "^0.2.5"
+  }
+}
