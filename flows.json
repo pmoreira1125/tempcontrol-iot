@@ -251,7 +251,7 @@
         "name": "HiveMQ Broker",
         "broker": "0b5c8beb21bd4fbfbe41fbec404e979a.s1.eu.hivemq.cloud",
         "port": "8883",
-        "tls": "9fecd4e7f65bcdde",
+        "tls": "",
         "clientid": "",
         "autoConnect": true,
         "usetls": true,
@@ -294,20 +294,6 @@
         "width": "6",
         "collapse": false,
         "className": ""
-    },
-    {
-        "id": "9fecd4e7f65bcdde",
-        "type": "tls-config",
-        "name": "",
-        "cert": "",
-        "key": "",
-        "ca": "",
-        "certname": "",
-        "keyname": "",
-        "caname": "",
-        "servername": "",
-        "verifyservercert": true,
-        "alpnprotocol": ""
     },
     {
         "id": "ad69468e1ec13716",
